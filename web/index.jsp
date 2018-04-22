@@ -19,7 +19,7 @@
     <div class="row all">
         <div class="col-sm-12 all" id="divdel">
             <h1 class="fail big" align="center">Opss!</h1>
-            <h1 class="fail" align="center">Page not found 4<i class="far fa-circle transforms" id = "transforms" onclick="errorAnimation(this);"></i>4</h1>
+            <h1 class="fail" align="center">Page not found 4<i class="fab fa-opera"  id = "transforms" onclick="errorAnimation(this);"></i>4</h1>
             <div id="forminputs" class="redylogin">
                 <h1 align="center"  class="fail logfor"> Autherezation </h1>
                 <form id=" formses">
